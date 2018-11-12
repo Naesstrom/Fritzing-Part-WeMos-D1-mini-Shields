@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0in"
+   y="0in"
+   viewBox="0 0 33.02 27.94"
+   width="1.3in"
+   height="1.1in"
+   id="svg177"
+   sodipodi:docname="svg.schematic.WeMos-D1-mini-1-DC-power-Shield_schematic.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata183">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs181" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1917"
+     inkscape:window-height="832"
+     id="namedview179"
+     showgrid="false"
+     inkscape:zoom="4.4696969"
+     inkscape:cx="28.41748"
+     inkscape:cy="42.011506"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g117" />
+  <g
+     id="schematic"
+     transform="matrix(0.35256586,0,0,0.29957532,0.04772824,0.07063258)">
+    <rect
+       x="14.85"
+       y="0.44999999"
+       width="63.900002"
+       height="78.300003"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.89999998px"
+       id="rect2" />
+  </g>
+  <g
+     id="g175"
+     transform="matrix(0.35218289,0,0,0.35218289,0.06565102,0.05919492)">
+    <g
+       id="g119">
+      <g
+         id="g53">
+        <path
+           id="connector0pin"
+           d="m 0.35,14.4 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(16.15,15.0999)"
+           id="g8">
+          <text
+             x="0"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text6">RST</text>
+        </g>
+        <rect
+           id="connector0terminal"
+           x="-0.34999999"
+           y="14.05"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+        <path
+           id="connector1pin"
+           d="m 0.35,21.6 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(16.15,22.2999)"
+           id="g14">
+          <text
+             x="0"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text12">A0</text>
+        </g>
+        <rect
+           id="connector1terminal"
+           x="-0.34999999"
+           y="21.25"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+        <path
+           id="connector2pin"
+           d="m 0.35,28.8 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(16.15,29.4999)"
+           id="g20">
+          <text
+             x="0"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text18">D0</text>
+        </g>
+        <rect
+           id="connector2terminal"
+           x="-0.34999999"
+           y="28.450001"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+        <path
+           id="connector3pin"
+           d="m 0.35,36 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(16.15,36.6999)"
+           id="g26">
+          <text
+             x="0"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text24">D5</text>
+        </g>
+        <rect
+           id="connector3terminal"
+           x="-0.34999999"
+           y="35.650002"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+        <path
+           id="connector4pin"
+           d="m 0.35,43.2 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(16.15,43.8999)"
+           id="g32">
+          <text
+             x="0"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text30">D6</text>
+        </g>
+        <rect
+           id="connector4terminal"
+           x="-0.34999999"
+           y="42.849998"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+        <path
+           id="connector5pin"
+           d="m 0.35,50.4 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(16.15,51.0999)"
+           id="g38">
+          <text
+             x="0"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text36">D7</text>
+        </g>
+        <rect
+           id="connector5terminal"
+           x="-0.34999999"
+           y="50.049999"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+        <path
+           id="connector6pin"
+           d="m 0.35,57.6 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(16.15,58.2999)"
+           id="g44">
+          <text
+             x="0"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text42">D8</text>
+        </g>
+        <rect
+           id="connector6terminal"
+           x="-0.34999999"
+           y="57.25"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+        <path
+           id="connector7pin"
+           d="m 0.35,64.8 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(16.15,65.4999)"
+           id="g50">
+          <text
+             x="0"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text48">3V3</text>
+        </g>
+        <rect
+           id="connector7terminal"
+           x="-0.34999999"
+           y="64.449997"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+      </g>
+      <g
+         id="g117">
+        <path
+           id="connector8pin"
+           d="m 78.85,64.8 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(77.4499,65.4999)"
+           id="g58">
+          <text
+             x="-4.5009999"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text56">5V</text>
+        </g>
+        <rect
+           id="connector8terminal"
+           x="93.25"
+           y="64.449997"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+        <path
+           id="connector9pin"
+           d="m 78.85,57.6 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           id="connector17pin"
+           serif:id="connector8pin"
+           transform="matrix(0,0.858939,-1,0,120.573,-0.897884)"
+           inkscape:label="#connector17pin">
+          <path
+             d="m 78.85,64.8 h 14.4"
+             style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+             id="path62"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="connector18pin"
+           serif:id="connector9pin"
+           transform="matrix(0,0.858939,-1,0,121.987,-0.897884)">
+          <path
+             d="m 78.85,57.6 h 14.4"
+             style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+             id="path65"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="translate(77.4499,58.2999)"
+           id="g70">
+          <text
+             x="-7.737"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text68">GND</text>
+        </g>
+        <g
+           transform="translate(59.6121,64.8251)"
+           id="g74">
+          <text
+             x="-7.737"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text72">GND</text>
+        </g>
+        <g
+           transform="translate(67.6592,64.8218)"
+           id="g78">
+          <text
+             x="-6.7150002"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text76">12V</text>
+        </g>
+        <rect
+           id="connector9terminal"
+           x="93.25"
+           y="57.25"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+        <path
+           id="connector10pin"
+           d="m 78.85,50.4 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(77.4499,51.0999)"
+           id="g84">
+          <text
+             x="-4.835"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text82">D4</text>
+        </g>
+        <rect
+           id="connector10terminal"
+           x="93.25"
+           y="50.049999"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+        <path
+           id="connector11pin"
+           d="m 78.85,43.2 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(77.4499,43.8999)"
+           id="g90">
+          <text
+             x="-4.835"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text88">D3</text>
+        </g>
+        <rect
+           id="connector11terminal"
+           x="93.25"
+           y="42.849998"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+        <path
+           id="connector12pin"
+           d="m 78.85,36 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(77.4499,36.6999)"
+           id="g96">
+          <text
+             x="-4.835"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text94">D2</text>
+        </g>
+        <rect
+           id="connector12terminal"
+           x="93.25"
+           y="35.650002"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+        <path
+           id="connector13pin"
+           d="m 78.85,28.8 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(77.4499,29.4999)"
+           id="g102">
+          <text
+             x="-4.835"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text100">D1</text>
+        </g>
+        <rect
+           id="connector13terminal"
+           x="93.25"
+           y="28.450001"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+        <path
+           id="connector14pin"
+           d="m 78.85,21.6 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(77.4499,22.2999)"
+           id="g108">
+          <text
+             x="-4.4039998"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text106">RX</text>
+        </g>
+        <rect
+           id="connector14terminal"
+           x="93.25"
+           y="21.25"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+        <path
+           id="connector15pin"
+           d="m 78.85,14.4 h 14.4"
+           style="fill:none;stroke:#787878;stroke-width:0.69999999px"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(77.4499,15.0999)"
+           id="g114">
+          <text
+             x="-4.4039998"
+             y="0"
+             style="font-weight:500;font-size:3.5px;font-family:LucidaGrande, 'Lucida Grande', sans-serif;fill:#8c8c8c"
+             id="text112">TX</text>
+        </g>
+        <rect
+           id="connector15terminal"
+           x="93.25"
+           y="14.05"
+           width="0.69999999"
+           height="0.69999999"
+           style="fill:none" />
+      </g>
+    </g>
+    <g
+       id="g173">
+      <g
+         transform="translate(46.8283,38.2677)"
+         id="g143">
+        <path
+           d="m -15.237,0 -0.791,-3.071 h 0.419 l 0.629,2.426 0.579,-2.426 h 0.419 l 0.548,2.392 0.677,-2.392 h 0.355 L -13.264,0 h -0.433 L -14.239,-2.368 -14.806,0 Z"
+           style="fill-rule:nonzero"
+           id="path121"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m -10.336,-0.073 c -0.273,0.083 -0.508,0.125 -0.703,0.125 -0.332,0 -0.603,-0.11 -0.812,-0.331 -0.21,-0.221 -0.315,-0.507 -0.315,-0.858 0,-0.342 0.092,-0.622 0.277,-0.841 0.185,-0.218 0.421,-0.328 0.709,-0.328 0.272,0 0.483,0.097 0.632,0.291 0.148,0.194 0.223,0.469 0.223,0.826 l -0.002,0.126 h -1.422 c 0.06,0.536 0.322,0.804 0.787,0.804 0.17,0 0.379,-0.046 0.626,-0.137 z M -11.73,-1.37 h 0.994 c 0,-0.419 -0.156,-0.628 -0.469,-0.628 -0.314,0 -0.489,0.209 -0.525,0.628 z"
+           style="fill-rule:nonzero"
+           id="path123"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m -9.632,0 v -3.071 h 0.604 l 0.851,2.376 0.875,-2.376 h 0.54 V 0 h -0.407 v -2.499 l -0.846,2.294 h -0.422 l -0.822,-2.3 V 0 Z"
+           style="fill-rule:nonzero"
+           id="path125"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m -5.077,0.052 c -0.322,0 -0.58,-0.107 -0.772,-0.321 -0.192,-0.213 -0.288,-0.5 -0.288,-0.858 0,-0.362 0.096,-0.649 0.289,-0.86 0.193,-0.211 0.455,-0.316 0.786,-0.316 0.33,0 0.592,0.105 0.785,0.316 0.193,0.211 0.29,0.496 0.29,0.856 0,0.368 -0.097,0.657 -0.291,0.867 -0.194,0.211 -0.46,0.316 -0.799,0.316 z m 0.006,-0.307 c 0.433,0 0.65,-0.292 0.65,-0.876 0,-0.577 -0.214,-0.865 -0.641,-0.865 -0.427,0 -0.64,0.289 -0.64,0.869 0,0.581 0.211,0.872 0.631,0.872 z"
+           style="fill-rule:nonzero"
+           id="path127"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m -2.751,0.052 c -0.186,0 -0.413,-0.044 -0.68,-0.131 v -0.375 c 0.267,0.132 0.499,0.199 0.697,0.199 0.118,0 0.215,-0.032 0.293,-0.096 0.077,-0.063 0.116,-0.143 0.116,-0.238 0,-0.14 -0.109,-0.256 -0.326,-0.347 L -2.89,-1.038 c -0.353,-0.146 -0.529,-0.357 -0.529,-0.633 0,-0.196 0.07,-0.351 0.209,-0.463 0.139,-0.113 0.329,-0.169 0.571,-0.169 0.126,0 0.282,0.017 0.467,0.051 l 0.085,0.017 v 0.34 c -0.228,-0.067 -0.409,-0.101 -0.543,-0.101 -0.263,0 -0.395,0.095 -0.395,0.286 0,0.123 0.1,0.227 0.299,0.311 l 0.197,0.083 c 0.223,0.094 0.381,0.194 0.474,0.298 0.092,0.105 0.139,0.235 0.139,0.391 0,0.198 -0.079,0.361 -0.235,0.488 -0.156,0.127 -0.356,0.191 -0.6,0.191 z"
+           style="fill-rule:nonzero"
+           id="path129"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 0.15,0 v -3.071 h 1.021 c 0.305,0 0.551,0.034 0.738,0.101 0.188,0.068 0.35,0.183 0.487,0.345 0.217,0.257 0.326,0.596 0.326,1.017 0,0.51 -0.135,0.906 -0.405,1.187 C 2.047,-0.14 1.667,0 1.178,0 Z m 0.436,-0.326 h 0.558 c 0.399,0 0.681,-0.107 0.847,-0.321 0.179,-0.229 0.268,-0.535 0.268,-0.92 0,-0.361 -0.088,-0.644 -0.264,-0.851 C 1.889,-2.544 1.762,-2.63 1.613,-2.676 1.465,-2.722 1.243,-2.745 0.945,-2.745 H 0.586 Z"
+           style="fill-rule:nonzero"
+           id="path131"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 3.577,0 v -0.307 h 0.614 v -2.424 l -0.614,0.154 v -0.316 l 1.025,-0.255 v 2.841 H 5.216 V 0 Z"
+           style="fill-rule:nonzero"
+           id="path133"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 7.378,0 v -2.254 h 0.409 v 0.424 c 0.199,-0.316 0.455,-0.473 0.768,-0.473 0.302,0 0.507,0.157 0.616,0.473 0.194,-0.317 0.446,-0.476 0.756,-0.476 0.199,0 0.353,0.059 0.462,0.176 0.11,0.117 0.164,0.28 0.164,0.491 V 0 h -0.41 v -1.575 c 0,-0.257 -0.102,-0.386 -0.306,-0.386 -0.211,0 -0.433,0.15 -0.666,0.45 V 0 H 8.76 v -1.575 c 0,-0.259 -0.103,-0.388 -0.311,-0.388 -0.206,0 -0.427,0.151 -0.662,0.452 V 0 Z"
+           style="fill-rule:nonzero"
+           id="path135"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 11.346,0 v -2.254 h 0.409 V 0 Z m 0,-2.662 v -0.409 h 0.409 v 0.409 z"
+           style="fill-rule:nonzero"
+           id="path137"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 12.575,0 v -2.254 h 0.408 v 0.424 c 0.216,-0.316 0.481,-0.473 0.793,-0.473 0.195,0 0.351,0.061 0.467,0.185 0.116,0.124 0.174,0.29 0.174,0.499 V 0 h -0.408 v -1.486 c 0,-0.167 -0.025,-0.287 -0.074,-0.358 -0.049,-0.071 -0.13,-0.107 -0.244,-0.107 -0.25,0 -0.486,0.164 -0.708,0.492 V 0 Z"
+           style="fill-rule:nonzero"
+           id="path139"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 15.212,0 v -2.254 h 0.409 V 0 Z m 0,-2.662 v -0.409 h 0.409 v 0.409 z"
+           style="fill-rule:nonzero"
+           id="path141"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(46.8283,43.937)"
+         id="g171">
+        <path
+           d="m -16.394,0 v -3.071 h 1.021 c 0.304,0 0.55,0.034 0.738,0.101 0.187,0.068 0.349,0.183 0.486,0.345 0.217,0.257 0.326,0.596 0.326,1.017 0,0.51 -0.135,0.906 -0.405,1.187 C -14.497,-0.14 -14.877,0 -15.367,0 Z m 0.436,-0.326 h 0.558 c 0.398,0 0.681,-0.107 0.847,-0.321 0.178,-0.229 0.267,-0.535 0.267,-0.92 0,-0.361 -0.088,-0.644 -0.263,-0.851 -0.107,-0.126 -0.234,-0.212 -0.382,-0.258 -0.148,-0.046 -0.371,-0.069 -0.668,-0.069 h -0.359 z"
+           style="fill-rule:nonzero"
+           id="path145"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m -11.895,0.077 c -0.477,0 -0.846,-0.14 -1.106,-0.42 -0.26,-0.281 -0.39,-0.677 -0.39,-1.191 0,-0.511 0.132,-0.909 0.397,-1.191 0.265,-0.282 0.638,-0.423 1.12,-0.423 0.275,0 0.597,0.045 0.967,0.135 v 0.409 c -0.421,-0.146 -0.745,-0.218 -0.974,-0.218 -0.333,0 -0.591,0.112 -0.774,0.338 -0.182,0.225 -0.274,0.544 -0.274,0.955 0,0.391 0.098,0.7 0.293,0.926 0.195,0.226 0.461,0.339 0.799,0.339 0.291,0 0.602,-0.089 0.934,-0.267 v 0.373 c -0.303,0.157 -0.634,0.235 -0.992,0.235 z"
+           style="fill-rule:nonzero"
+           id="path147"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m -8.925,0 v -3.071 h 0.836 c 0.371,0 0.637,0.062 0.799,0.188 0.162,0.125 0.243,0.331 0.243,0.617 0,0.326 -0.111,0.582 -0.332,0.768 -0.222,0.185 -0.529,0.278 -0.922,0.278 H -8.494 V 0 Z m 0.431,-1.55 h 0.177 c 0.258,0 0.458,-0.06 0.599,-0.179 0.141,-0.119 0.212,-0.287 0.212,-0.504 0,-0.184 -0.055,-0.315 -0.166,-0.394 -0.111,-0.079 -0.295,-0.118 -0.554,-0.118 h -0.268 z"
+           style="fill-rule:nonzero"
+           id="path149"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m -5.682,0.052 c -0.322,0 -0.58,-0.107 -0.772,-0.321 -0.192,-0.213 -0.288,-0.5 -0.288,-0.858 0,-0.362 0.096,-0.649 0.289,-0.86 0.193,-0.211 0.455,-0.316 0.786,-0.316 0.33,0 0.592,0.105 0.785,0.316 0.193,0.211 0.29,0.496 0.29,0.856 0,0.368 -0.097,0.657 -0.291,0.867 -0.194,0.211 -0.46,0.316 -0.799,0.316 z m 0.006,-0.307 c 0.433,0 0.65,-0.292 0.65,-0.876 0,-0.577 -0.214,-0.865 -0.641,-0.865 -0.426,0 -0.64,0.289 -0.64,0.869 0,0.581 0.211,0.872 0.631,0.872 z"
+           style="fill-rule:nonzero"
+           id="path151"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m -3.692,0 -0.645,-2.254 h 0.4 l 0.494,1.746 0.534,-1.746 h 0.408 l 0.467,1.746 0.567,-1.746 h 0.351 L -1.851,0 H -2.262 L -2.739,-1.745 -3.279,0 Z"
+           style="fill-rule:nonzero"
+           id="path153"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 0.973,-0.073 C 0.699,0.01 0.465,0.052 0.27,0.052 c -0.332,0 -0.603,-0.11 -0.813,-0.331 -0.209,-0.221 -0.314,-0.507 -0.314,-0.858 0,-0.342 0.092,-0.622 0.277,-0.841 0.185,-0.218 0.421,-0.328 0.709,-0.328 0.272,0 0.483,0.097 0.632,0.291 0.148,0.194 0.223,0.469 0.223,0.826 L 0.982,-1.063 H -0.44 c 0.06,0.536 0.322,0.804 0.787,0.804 0.17,0 0.379,-0.046 0.626,-0.137 z M -0.421,-1.37 h 0.994 c 0,-0.419 -0.157,-0.628 -0.469,-0.628 -0.314,0 -0.489,0.209 -0.525,0.628 z"
+           style="fill-rule:nonzero"
+           id="path155"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 1.689,0 v -2.254 h 0.409 v 0.424 c 0.162,-0.316 0.397,-0.473 0.706,-0.473 0.041,0 0.085,0.003 0.13,0.01 v 0.382 c -0.07,-0.024 -0.132,-0.036 -0.186,-0.036 -0.259,0 -0.476,0.154 -0.65,0.461 V 0 Z"
+           style="fill-rule:nonzero"
+           id="path157"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 5.362,0.077 c -0.206,0 -0.469,-0.045 -0.79,-0.135 V -0.49 c 0.346,0.161 0.63,0.241 0.853,0.241 0.171,0 0.309,-0.045 0.414,-0.135 0.104,-0.09 0.156,-0.208 0.156,-0.355 0,-0.12 -0.034,-0.223 -0.102,-0.307 C 5.824,-1.13 5.698,-1.224 5.514,-1.328 L 5.302,-1.451 C 5.041,-1.6 4.856,-1.741 4.749,-1.873 4.642,-2.005 4.588,-2.159 4.588,-2.335 c 0,-0.236 0.086,-0.431 0.258,-0.584 0.171,-0.153 0.39,-0.229 0.655,-0.229 0.237,0 0.487,0.039 0.75,0.118 v 0.399 C 5.927,-2.759 5.685,-2.822 5.526,-2.822 c -0.151,0 -0.275,0.04 -0.373,0.12 -0.099,0.08 -0.148,0.181 -0.148,0.303 0,0.102 0.036,0.193 0.108,0.272 0.072,0.079 0.204,0.173 0.395,0.282 l 0.22,0.125 c 0.265,0.15 0.451,0.293 0.556,0.427 0.105,0.134 0.157,0.296 0.157,0.484 0,0.267 -0.098,0.481 -0.295,0.643 -0.197,0.162 -0.459,0.243 -0.784,0.243 z"
+           style="fill-rule:nonzero"
+           id="path159"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 7.062,0 v -3.277 h 0.409 v 1.447 c 0.216,-0.316 0.48,-0.473 0.792,-0.473 0.196,0 0.351,0.061 0.467,0.185 0.117,0.124 0.175,0.29 0.175,0.499 V 0 H 8.496 v -1.486 c 0,-0.167 -0.025,-0.287 -0.074,-0.358 -0.049,-0.071 -0.13,-0.107 -0.244,-0.107 -0.25,0 -0.486,0.164 -0.707,0.492 V 0 Z"
+           style="fill-rule:nonzero"
+           id="path161"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 9.699,0 v -2.254 h 0.409 V 0 Z m 0,-2.662 v -0.409 h 0.409 v 0.409 z"
+           style="fill-rule:nonzero"
+           id="path163"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 12.58,-0.073 c -0.274,0.083 -0.509,0.125 -0.704,0.125 -0.332,0 -0.602,-0.11 -0.812,-0.331 -0.21,-0.221 -0.314,-0.507 -0.314,-0.858 0,-0.342 0.092,-0.622 0.277,-0.841 0.184,-0.218 0.421,-0.328 0.708,-0.328 0.273,0 0.483,0.097 0.632,0.291 0.149,0.194 0.223,0.469 0.223,0.826 l -0.002,0.126 h -1.421 c 0.059,0.536 0.321,0.804 0.786,0.804 0.17,0 0.379,-0.046 0.627,-0.137 z M 11.185,-1.37 h 0.994 c 0,-0.419 -0.156,-0.628 -0.469,-0.628 -0.314,0 -0.489,0.209 -0.525,0.628 z"
+           style="fill-rule:nonzero"
+           id="path165"
+           inkscape:connector-curvature="0" />
+        <rect
+           x="13.296"
+           y="-3.277"
+           width="0.40900001"
+           height="3.277"
+           style="fill-rule:nonzero"
+           id="rect167" />
+        <path
+           d="m 15.971,0 v -0.423 c -0.166,0.316 -0.417,0.475 -0.751,0.475 -0.272,0 -0.485,-0.099 -0.641,-0.297 -0.155,-0.198 -0.233,-0.468 -0.233,-0.811 0,-0.375 0.088,-0.677 0.264,-0.905 0.177,-0.228 0.409,-0.342 0.697,-0.342 0.267,0 0.488,0.102 0.664,0.307 v -1.281 h 0.411 V 0 Z m 0,-1.716 c -0.212,-0.187 -0.413,-0.28 -0.602,-0.28 -0.392,0 -0.587,0.299 -0.587,0.898 0,0.527 0.174,0.791 0.523,0.791 0.226,0 0.449,-0.124 0.666,-0.372 z"
+           style="fill-rule:nonzero"
+           id="path169"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
